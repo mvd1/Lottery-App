@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Lottery Tracker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mmJackpot">Jackpot</string>
+    <string name="megaplier">Megaplier</string>
+    <string name="_3">3</string>
+    <string name="_60_million">$60 Million</string>
+    <string name="numbers1">Numbers</string>
+    <string name="_2_4_8_19_54_21">2, 4, 8, 19, 54, 21</string>
+    <string name="date1">Date</string>
+    <string name="saturday_apr_10_2021_1">Saturday, Apr 10, 2021</string>
+    <string name="_70_million">$70 Million</string>
+    <string name="next_jackpot1">Next Jackpot</string>
+    <string name="on_wednesday_apr_14_2021">on Wednesday, Apr 14, 2021</string>
+    <string name="settings">Settings</string>
+    <string name="currency">Currency</string>
+    <string name="usd">USD</string>
+    <string name="eur">EUR</string>
+    <string name="cad">CAD</string>
+    <string name="show_megamillions">Show MegaMillions</string>
+    <string name="jackpot">Jackpot</string>
+    <string name="_64_million">$64 Million</string>
+    <string name="power_play">Power Play</string>
+    <string name="_2">2</string>
+    <string name="numbers">Numbers</string>
+    <string name="_16_42_26_35_58">16, 42, 26, 35, 58</string>
+    <string name="date">Date</string>
+    <string name="saturday_apr_10_2021">Saturday, Apr 10, 2021</string>
+    <string name="next_jackpot">Next Jackpot</string>
+    <string name="_70_million_on_wednesday_apr_14_2021">$70 Million on Wednesday, Apr 14, 2021</string>
+</resources>
